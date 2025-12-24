@@ -1,0 +1,36 @@
+# Source files (only dist is published)
+src/
+
+# Config files
+tsconfig.json
+jest.config.js
+gulpfile.js
+.eslintrc.json
+.prettierrc
+.editorconfig
+
+# Tests
+tests/
+coverage/
+*.test.ts
+*.spec.ts
+
+# Development
+.github/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Docs (optional - keep README)
+# docs/
+
+# Misc
+*.log
+*.tmp
